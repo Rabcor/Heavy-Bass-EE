@@ -19,7 +19,15 @@ It is recommended for users to try all three versions to find their preferred ba
 
 # Installation
 
-Move all `.json` files to `~/.config/easyeffects/output` or `~/.var/app/com.github.wwmm.EasyEffects/config/easyeffects/output` depending on how you installed easyeffects.
+Move all `.json` files to 
+
+`~/.config/easyeffects/output` 
+
+or 
+
+`~/.var/app/com.github.wwmm.EasyEffects/config/easyeffects/output`
+
+depending on how you installed EasyEffects.
 
 # Additional Info
 The preamp is set to -5db for the bass enhancer because it is increasing bass volume by 4.5db, this is done to protect your hardware and prevent clipping.
