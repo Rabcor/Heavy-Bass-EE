@@ -1,7 +1,7 @@
 # Heavy Bass Preset For EasyEffects
 This is a very simple bass boosting preset for [EasyEffects](https://github.com/wwmm/easyeffects).
 
-The idea behind this preset is to create an uncompromising bass boost by reducing treble via Equalizer, using the EasyEffects Bass Enhancer plugin to make bass punchier, and using a very soft Crystalizer to try to compensate for the reduced treble.
+The idea behind this preset is to create an uncompromising bass boost by reducing treble via Equalizer, using the Bass Enhancer plugin by [Calf Studio Gear](https://calf-studio-gear.org/) to make bass punchier, and using a very soft Crystalizer to try to compensate for the reduced treble.
 
 There are three variations.
 
