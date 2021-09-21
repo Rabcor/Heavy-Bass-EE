@@ -1,5 +1,5 @@
-# Heavy Bass Preset For EasyEffects
-This is a very simple bass boosting preset for [EasyEffects](https://github.com/wwmm/easyeffects).
+# Heavy Bass Preset For PulseEffects (Legacy)
+This is a very simple bass boosting preset for [PulseEffects-Legacy](https://github.com/wwmm/easyeffects).
 
 The idea behind this preset is to create an uncompromising bass boost by reducing treble via Equalizer, using the Bass Enhancer plugin by [Calf Studio Gear](https://calf-studio-gear.org/) to make bass punchier, and using a very soft Crystalizer to try to compensate for the reduced treble.
 
@@ -21,13 +21,13 @@ It is recommended for users to try all three versions to find their preferred ba
 
 Move all `.json` files to 
 
-`~/.config/easyeffects/output` 
+`~/.config/pulseeffects/output` 
 
 or 
 
-`~/.var/app/com.github.wwmm.EasyEffects/config/easyeffects/output`
+`~/.var/app/com.github.wwmm.PulseEffects/config/pulseeffects/output`
 
-depending on how you installed EasyEffects.
+depending on how you installed PulseEffects.
 
 # Additional Info
 The preamp is set to -5db for the bass enhancer because it is increasing bass volume by 4.5db, this is done to protect your hardware and prevent clipping.
