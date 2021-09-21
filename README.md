@@ -1,4 +1,4 @@
-# Heavy Bass Preset For PulseEffects (Legacy)
+# Heavy Bass Preset For PulseEffects-Legacy
 This is a very simple bass boosting preset for [PulseEffects-Legacy](https://github.com/wwmm/easyeffects).
 
 The idea behind this preset is to create an uncompromising bass boost by reducing treble via Equalizer, using the Bass Enhancer plugin by [Calf Studio Gear](https://calf-studio-gear.org/) to make bass punchier, and using a very soft Crystalizer to try to compensate for the reduced treble.
