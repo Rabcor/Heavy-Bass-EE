@@ -21,11 +21,11 @@ It is recommended for users to try all three versions to find their preferred ba
 
 Move all `.json` files to 
 
-`~/.config/pulseeffects/output` 
+`~/.config/PulseEffects/output` 
 
 or 
 
-`~/.var/app/com.github.wwmm.PulseEffects/config/pulseeffects/output`
+`~/.var/app/com.github.wwmm.PulseEffects/config/PulseEffects/output`
 
 depending on how you installed PulseEffects.
 
