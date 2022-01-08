@@ -7,13 +7,13 @@ There are three variations.
 
 **Heavy Bass**
 
-    The main preset, makes the bass sound heavier. Reduces treble by about 1-6db depending on band.
+    The main preset, makes the bass sound heavier. Reduces treble by about 1-6db depending on band, enhances bass up to 180hz.
 **HB-Mid**
 
-    This variant's equalizer reduces treble 25% less (0-4db) than the main preset but is otherwise unchanged.
+    This variant's equalizer reduces treble 25% less (0-4db) than the main preset and enhances bass up to 150hz.
 **HB-Lite**
 
-    This variant's equalizer reduces treble 50% less (0-3db) than the main preset but is otherwise unchanged.
+    This variant's equalizer reduces treble 50% less (0-3db) than the main preset and enhances bass up to 120hz.
 
 It is recommended for users to try all three versions to find their preferred balance; there may also be different situations that call for a lighter/heavier treble reduction based on user preference.
 
@@ -31,6 +31,10 @@ depending on how you installed PulseEffects.
 
 # Additional Info
 The preamp is set to -5db for the bass enhancer because it is increasing bass volume by 4.5db, this is done to protect your hardware and prevent clipping.
+
+# Changelog
+
+8/1/22: Tweaked bass enhancer scope for Heavy Bass and HB-Mid presets for better results (used to be 120hz)
 
 # Trivia
 I actually made this preset originally to try to make my laptop speakers not sound like crap, it was made almost haphazardly, a happy accident really, but turned out to actually sound amazing on my hardware. I then later discovered it also sounded better in my headphones than the preset I was using for that before and decided I had to be on to something here, which is what prompted me to share it.
