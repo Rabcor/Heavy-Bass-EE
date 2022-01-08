@@ -8,7 +8,7 @@
             "harmonics": 8.5,
             "input-gain": -5.1,
             "output-gain": -0.1,
-            "scope": 120.0
+            "scope": 150.0
         },
         "blocklist": [
             "Virtual Surround Sink Stream from VirtualSurround"
