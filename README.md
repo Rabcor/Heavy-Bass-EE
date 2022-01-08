@@ -3,7 +3,7 @@ This is a very simple bass boosting preset for [PulseEffects-Legacy](https://git
 
 The idea behind this preset is to create an uncompromising bass boost by reducing treble via Equalizer, using the Bass Enhancer plugin by [Calf Studio Gear](https://calf-studio-gear.org/) to make bass punchier, and using a very soft Crystalizer to try to compensate for the reduced treble.
 
-There are three variations.
+There are four variations.
 
 **Heavy Bass**
 
@@ -15,7 +15,7 @@ There are three variations.
 
     This variant's equalizer reduces treble 50% less (0-3db) than the main preset and enhances bass up to 120hz.
 
-It is recommended for users to try all three versions to find their preferred balance; there may also be different situations that call for a lighter/heavier treble reduction based on user preference.
+It is recommended to try all four versions to find their preferred balance; there may also be different situations that call for a lighter/heavier treble reduction based on user preference.
 
 # Installation
 
