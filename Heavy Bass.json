@@ -59,7 +59,7 @@
             "output-gain": "0",
             "amount": "4.5",
             "harmonics": "8.5",
-            "scope": "120",
+            "scope": "180",
             "floor": "20",
             "blend": "0",
             "floor-active": "false",
