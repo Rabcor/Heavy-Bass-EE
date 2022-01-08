@@ -1,0 +1,90 @@
+{
+    "output": {
+        "bass_enhancer": {
+            "amount": 8.499999999999986,
+            "blend": 0.0,
+            "floor": 20.0,
+            "floor-active": false,
+            "harmonics": 8.500000000000005,
+            "input-gain": -9.5,
+            "output-gain": -0.1,
+            "scope": 180.0
+        },
+        "blocklist": [
+            "Virtual Surround Sink Stream from VirtualSurround"
+        ],
+        "crystalizer": {
+            "band0": {
+                "bypass": false,
+                "intensity": -16.0,
+                "mute": false
+            },
+            "band1": {
+                "bypass": false,
+                "intensity": -15.0,
+                "mute": false
+            },
+            "band10": {
+                "bypass": false,
+                "intensity": -14.0,
+                "mute": false
+            },
+            "band11": {
+                "bypass": false,
+                "intensity": -15.0,
+                "mute": false
+            },
+            "band12": {
+                "bypass": false,
+                "intensity": -16.0,
+                "mute": false
+            },
+            "band2": {
+                "bypass": false,
+                "intensity": -14.0,
+                "mute": false
+            },
+            "band3": {
+                "bypass": false,
+                "intensity": -13.0,
+                "mute": false
+            },
+            "band4": {
+                "bypass": false,
+                "intensity": -12.0,
+                "mute": false
+            },
+            "band5": {
+                "bypass": false,
+                "intensity": -11.0,
+                "mute": false
+            },
+            "band6": {
+                "bypass": false,
+                "intensity": -10.0,
+                "mute": false
+            },
+            "band7": {
+                "bypass": false,
+                "intensity": -11.0,
+                "mute": false
+            },
+            "band8": {
+                "bypass": false,
+                "intensity": -12.0,
+                "mute": false
+            },
+            "band9": {
+                "bypass": false,
+                "intensity": -13.0,
+                "mute": false
+            },
+            "input-gain": 0.0,
+            "output-gain": 0.0
+        },
+        "plugins_order": [
+            "bass_enhancer",
+            "crystalizer"
+        ]
+    }
+}
